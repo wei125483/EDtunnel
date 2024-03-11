@@ -860,6 +860,7 @@ function createVLESSSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
+	'umcrypto.io',
 	'weibo.com',                // Weibo - A popular social media platform
 	'www.baidu.com',            // Baidu - The largest search engine in China
 	'www.qq.com',               // QQ - A widely used instant messaging platform
